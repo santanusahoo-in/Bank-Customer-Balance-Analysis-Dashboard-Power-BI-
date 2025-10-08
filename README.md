@@ -41,7 +41,7 @@ The goal of this project is to **visualize and interpret customer balance trends
 
 ---
 
-## 📈 Statistical Story  
+## 📊 Data Insights Overview 
 
 | Category | Key Figures | Insights |
 |-----------|--------------|-----------|
