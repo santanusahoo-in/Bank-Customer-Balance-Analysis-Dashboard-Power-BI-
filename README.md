@@ -87,5 +87,5 @@ The result is a data-driven, visually engaging dashboard that transforms raw dat
 
 **📁 File:** `BankReport.pbix`  
 **🧠 Visualization Tool:** Power BI  
-**👨‍💻 Developer:** [Your Name]
+**👨‍💻 Developer:** [Santanu Sahoo]
 
